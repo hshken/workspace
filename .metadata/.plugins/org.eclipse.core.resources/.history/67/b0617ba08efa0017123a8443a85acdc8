@@ -8,9 +8,9 @@ public class Director extends Manager{
 		
 	}
 @Override
-public Director(String name , int wage , int bonusmoney){
-	  this.name = name;
-	  this.wage = wage;
-	  this.bonusmoney;
+public void print(){
+	int wage = (int)(wage);
+	bonusmoney = (int)(wage+ (bonusmoney));
+	
 }
 }
