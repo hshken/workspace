@@ -1,0 +1,12 @@
+package edu.fju.exam;
+
+public class Employee {
+  int price;
+public  Employee (int price){
+	this.price= price;
+}
+public void print(){
+	int total = (int)(price);
+	System.out.println(price);
+}
+}
